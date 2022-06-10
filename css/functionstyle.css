@@ -1,0 +1,9 @@
+#导航栏功能 {
+	font-size: 30px;
+	font-style: italic;
+}
+
+#导航栏友情链接 {
+	height: 1px;
+	visibility: hidden;
+}

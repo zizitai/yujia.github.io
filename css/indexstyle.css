@@ -1,0 +1,70 @@
+#导航栏首页{
+	font-size: 30px;
+	font-style: italic;
+}
+
+/* 设置所有h2小标题的样式 */
+h2 {
+	color: #00007f;
+	/* 小标题设置为深蓝色 */
+	font-size: medium;
+	/* 文字的大小为中等大小 */
+}
+/*设置网页背景*/
+#background{
+	color: antiquewhite;
+	/*网页背景设置为浅黄色*/
+}
+
+/* 标题样式 */
+#Headtext {
+	/* color: Purple; */
+	/* 标题文字颜色为紫色 */
+	color: black;
+	/* 标题文字颜色为黑色 */
+	/* color: #000000; */
+	/* 标题文字颜色为黑色 */
+	font-size: 36px;
+	/* x-large; */
+}
+
+/* 副标题样式 */
+#Headtext2 {
+	color: #000000;
+	/* 标题文字颜色为黑色 */
+	font-size: 18px;
+	/* x-large; */
+}
+
+/* 段落div样式 */
+#div_text {
+	text-indene:2em;
+	/* 文字首行缩进2字符 */
+	color: black;
+	/* div内的文字为黑色 */
+	border: 2px solid #00ff00;
+	/* 边框样式 */
+
+}
+
+/* 大图片样式 */
+#bigpic {
+	width: 100%;
+
+	background-attachment: fixed;
+	/* 相对浏览器窗口静止 */
+
+	/* background: url(../img/11.jpg) no-repeat; */
+
+	background-image: url(../img/11.jpg);
+	background-repeat: no-repeat;
+
+	background-size: 100% 100%;
+}
+
+/* 控制按钮div容器样式 */
+#div_controlbtn {
+	border: dashed;
+	/* 边框样式为虚线 */
+}
+
